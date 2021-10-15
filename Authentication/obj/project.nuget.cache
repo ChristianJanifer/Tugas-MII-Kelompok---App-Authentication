@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CPFau/YKP5XLqTT3V7r/JSOBNp42Nw+7CRj2y0x/DwHjsjMQgbmomy1+VV2ZrUHaTz6aTjxGcZBUmK2maXIt8g==",
+  "success": true,
+  "projectFilePath": "D:\\METRODATA CODING CAMP\\OOP\\Authentication\\Authentication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Christian Janifer\\.nuget\\packages\\bcrypt.net-core\\1.6.0\\bcrypt.net-core.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
